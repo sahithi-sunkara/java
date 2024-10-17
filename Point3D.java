@@ -1,8 +1,7 @@
 import java.io.*;
 class Point2D{
-    int x,y;
+     int x=5,y=10;
     void display(){
-        int x=5,y=10;
         System.out.println("The coordinates are " +x+"," +y);
     }
 }
